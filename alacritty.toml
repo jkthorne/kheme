@@ -34,3 +34,8 @@ foreground = "0xffffff"
 [colors.selection]
 background = "0x3c4048"
 foreground = "0xffffff"
+
+[font]
+normal = { family = "Departure Mono", style = "Regular" }
+bold = { family = "Departure Mono", style = "Bold" }
+italic = { family = "Departure Mono", style = "Italic" }
