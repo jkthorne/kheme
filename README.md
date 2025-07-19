@@ -4,4 +4,4 @@ Personal theme for Omarchy.  Inspirations include [Cyberdream](https://github.co
 
 # Terminal
 
-Thems for the terminal are based off [chttps://github.com/jkthorne/kheme.gityberdreeam]<https://github.com/jkthorne/kheme.git(https://github.com/scottmckendry/cyberdream.nvim)>
+Themes for the terminal are based off [cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
