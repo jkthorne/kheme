@@ -1,3 +1,8 @@
+# ────────────────────────────────────────────────────────────
+# Omarchy Custom Theme for Alacritty
+# Generated with Omarchist
+# ────────────────────────────────────────────────────────────
+
 [[colors.indexed_colors]]
 color = "0xffbd5e"
 index = 16
@@ -29,12 +34,12 @@ yellow = "0xf1ff5e"
 [colors.primary]
 background = "0x16181a"
 foreground = "0xffffff"
+# dim_foreground = "0x1e2124"
 
 [colors.selection]
 background = "0x3c4048"
 foreground = "0xffffff"
 
-[font]
-normal = { family = "Departure Mono", style = "Regular" }
-bold = { family = "Departure Mono", style = "Bold" }
-italic = { family = "Departure Mono", style = "Italic" }
+[colors.cursor]
+text = "#5eff6c"
+cursor = "#ffffff"
